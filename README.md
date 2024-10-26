@@ -45,3 +45,14 @@
 - [数理政治经济学有什么好的入门教材吗？](https://www.zhihu.com/question/456343479)
 - [书单：马克思主义从入门到进阶](https://zhuanlan.zhihu.com/p/25888209)
 - [现代古典经济学书单](https://zhuanlan.zhihu.com/p/389226531)
+
+## 专业社区
+
+- [香蕉空间](https://www.bananaspace.org/wiki/%E9%A6%96%E9%A1%B5)
+- [超理论坛](https://chaoli.club/)
+- [统计之都](https://cosx.org/)
+- [和鲸社区](https://www.heywhale.com/home)
+- [经管之家](https://bbs.pinggu.org/)
+- [草莓科研服务网](https://www.caomeikeyan.com/)
+- [科研通文献互助](https://www.ablesci.com/)
+- [We The Communist](https://communists.flarum.cloud/)
