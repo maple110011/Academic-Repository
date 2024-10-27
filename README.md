@@ -35,23 +35,13 @@
 - [MIMIC](https://mimic.mit.edu/docs/gettingstarted/)
 - [CHARLS](https://charls.charlsdata.com/pages/data/111/zh-cn.html)
 
-## 学术公众号
+## R Package
 
-### 统计学类
-
-### 经济学类
-
-### 地理学类
-
-### 社会学类
-
-### 法学类
-
-### 韧性研究
-
-### 马克思主义研究
-
-### 共运研究
+- 根据多种聚类指标确定最佳聚类数的[NbClust](https://www.rdocumentation.org/packages/NbClust/versions/3.0.1)
+- 对httr的完全重构，Hadly Wickham力作[httr2](https://httr2.r-lib.org/articles/httr2.html)
+- 实现职业编码、社会经济地位指数和EGP阶层分类转换的[occupar](https://rdrr.io/github/DiogoFerrari/occupar/man/)
+- modelsummary包中[gof_map的参数完整列表](https://github.com/cran/modelsummary/blob/master/R/gof_map.R)
+- 中国资本存量计算[CHNCapitalStock](https://libraries.io/cran/CHNCapitalStock)
 
 ## 书单
 
@@ -101,3 +91,21 @@
 - [参考文献格式生成器](https://houliang.me/tools/paperFormatGenerator/)
 - [阿里云地图](https://datav.aliyun.com/portal/school/atlas/area_selector)
 - [mapshaper](https://mapshaper.org/)
+
+## 学术公众号
+
+### 统计学类
+
+### 经济学类
+
+### 地理学类
+
+### 社会学类
+
+### 法学类
+
+### 韧性研究
+
+### 马克思主义研究
+
+### 共运研究
