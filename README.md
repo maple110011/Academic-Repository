@@ -17,17 +17,7 @@
 
 ### 社会调查数据库
 - 中国综合社会调查(CGSS)
-    - [2021](http://www.cnsda.org/index.php?r=projects/view&id=65635422)
-    - [2018](http://www.cnsda.org/index.php?r=projects/view&id=35694191)
-    - [2017](http://www.cnsda.org/index.php?r=projects/view&id=94525591)
-    - [2015](http://www.cnsda.org/index.php?r=projects/view&id=62072446)
-    - [2013](http://www.cnsda.org/index.php?r=projects/view&id=93281139)
-    - [2012](http://www.cnsda.org/index.php?r=projects/view&id=85111874)
-    - [2011](http://www.cnsda.org/index.php?r=projects/view&id=12791319)
-    - [2010](http://www.cnsda.org/index.php?r=projects/view&id=15553986)
-    - [2008](http://www.cnsda.org/index.php?r=projects/view&id=34288661)
-    - [2006](http://www.cnsda.org/index.php?r=projects/view&id=12612016)
-    - [2003](http://www.cnsda.org/index.php?r=projects/view&id=60132134)
+    - [2021](http://www.cnsda.org/index.php?r=projects/view&id=65635422)，[2018](http://www.cnsda.org/index.php?r=projects/view&id=35694191)，[2017](http://www.cnsda.org/index.php?r=projects/view&id=94525591)，[2015](http://www.cnsda.org/index.php?r=projects/view&id=62072446)，[2013](http://www.cnsda.org/index.php?r=projects/view&id=93281139)，[2012](http://www.cnsda.org/index.php?r=projects/view&id=85111874)，[2011](http://www.cnsda.org/index.php?r=projects/view&id=12791319)，[2010](http://www.cnsda.org/index.php?r=projects/view&id=15553986)，[2008](http://www.cnsda.org/index.php?r=projects/view&id=34288661)，[2006](http://www.cnsda.org/index.php?r=projects/view&id=12612016)，[2003](http://www.cnsda.org/index.php?r=projects/view&id=60132134)
 - [中国家庭追踪调查(CFPS)](https://www.isss.pku.edu.cn/cfps/)
 - [中国社会状况综合调查(CSS)](http://css.cssn.cn/css_sy/zlysj/)
 - 马得勇网民社会意识调查
