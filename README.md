@@ -21,13 +21,7 @@
 - [中国家庭追踪调查(CFPS)](https://www.isss.pku.edu.cn/cfps/)
 - [中国社会状况综合调查(CSS)](http://css.cssn.cn/css_sy/zlysj/)
 - 马得勇网民社会意识调查
-    - [2021](http://www.cnsda.org/index.php?r=projects/view&id=20343796)
-    - [2020wave1](http://www.cnsda.org/index.php?r=projects/view&id=79171707)
-    - [2020wave2](http://www.cnsda.org/index.php?r=projects/view&id=59990363)
-    - [2019](http://www.cnsda.org/index.php?r=projects/view&id=54034919)
-    - [2018](http://www.cnsda.org/index.php?r=projects/view&id=83249950)
-    - [2017](http://www.cnsda.org/index.php?r=projects/view&id=69084413)
-    - [2015](http://www.cnsda.org/index.php?r=projects/view&id=70846128)
+    - [2021](http://www.cnsda.org/index.php?r=projects/view&id=20343796)，[2020wave1](http://www.cnsda.org/index.php?r=projects/view&id=79171707)，[2020wave2](http://www.cnsda.org/index.php?r=projects/view&id=59990363)， [2019](http://www.cnsda.org/index.php?r=projects/view&id=54034919)， [2018](http://www.cnsda.org/index.php?r=projects/view&id=83249950)，[2017](http://www.cnsda.org/index.php?r=projects/view&id=69084413)，[2015](http://www.cnsda.org/index.php?r=projects/view&id=70846128)
 
 ### 地理数据库
 
